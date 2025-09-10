@@ -1,0 +1,76 @@
+@model APP.Models.Consola
+
+<div class="container mt-5">
+    <div class="row">
+        <!-- Imagen -->
+        <div class="col-md-6 text-center mb-4">
+            <img src="@Model.Imagen" class="img-fluid rounded shadow" alt="@Model.Modelo" style="max-height:350px; object-fit:cover;" />
+        </div>
+
+        <!-- Detalles -->
+        <div class="col-md-6">
+            <h2 class="mb-3">@Model.Modelo</h2>
+            <ul class="list-group mb-3">
+                <li class="list-group-item"><strong>Marca:</strong> @Model.Marca</li>
+                <li class="list-group-item"><strong>Almacenamiento:</strong> @Model.Almacenamiento</li>
+                <li class="list-group-item"><strong>Generación:</strong> @Model.Generacion</li>
+                <li class="list-group-item"><strong>Incluye Juegos:</strong> @(Model.IncluyeJuegos ? "Sí" : "No")</li>
+                <li class="list-group-item"><strong>Precio:</strong> @Model.Precio.ToString("C")</li>
+
+                @if (Model.Proveedor != null)
+                {
+                <li class="list-group-item"><strong>Proveedor:</strong> @Model.Proveedor.Nombre</li>
+                <li class="list-group-item"><strong>Dirección:</strong> @Model.Proveedor.Direccion</li>
+                <li class="list-group-item"><strong>Teléfono:</strong> @Model.Proveedor.Telefono</li>
+                <li class="list-group-item"><strong>Email:</strong> @Model.Proveedor.Email</li>
+                }
+            </ul>
+
+            <a href="@Url.Action("Index", "Consolas")" class="btn btn-secondary mb-2">Volver a la lista</a>
+
+            <!-- Botones según rol -->
+            @{
+                var rolUsuario = Context.Session.GetString("Rol");
+            }
+
+            <div class="d-flex gap-2">
+                @if (rolUsuario == "ADMIN" || rolUsuario == "ENCARGADO")
+                {
+                <a href="@Url.Action("Edit", "Consolas", new { id = Model.IdConsola })" class="btn btn-warning flex-grow-1">Editar</a>
+                }
+
+                @if (rolUsuario == "ADMIN")
+                {
+                <a href="@Url.Action("Delete", "Consolas", new { id = Model.IdConsola })" class="btn btn-danger flex-grow-1">Borrar</a>
+                }
+            </div>
+
+            @if (rolUsuario == "ADMIN" || rolUsuario == "ENCARGADO")
+            {
+            <a href="@Url.Action("ExportSingleConsolaToExcel", "ConsolaExport", new { id = Model.IdConsola })"
+               class="btn btn-success flex-grow-1">
+                Exportar a Excel
+            </a>
+            }
+        </div>
+    </div>
+</div>
+
+<style>
+    h2 {
+        font-weight: bold;
+    }
+
+    .list-group-item {
+        font-size: 1rem;
+    }
+
+    .btn-secondary, .btn-warning, .btn-danger {
+        padding: 10px;
+        font-size: 1rem;
+    }
+
+    .d-flex.gap-2 {
+        margin-top: 10px;
+    }
+</style>

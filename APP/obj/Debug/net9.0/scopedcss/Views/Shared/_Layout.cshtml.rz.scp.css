@@ -1,0 +1,198 @@
+/* ============================
+   Global Styles
+============================ */
+body[b-sara90ikyu] {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f5f7fa;
+    color: #333;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+/* ============================
+   Navbar
+============================ */
+.navbar[b-sara90ikyu] {
+    background: linear-gradient(90deg, #1b6ec2, #3a8ee6);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.navbar .navbar-brand[b-sara90ikyu] {
+    color: #fff !important;
+    font-weight: 700;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.navbar .navbar-brand:hover[b-sara90ikyu] {
+    color: #ffd700 !important;
+}
+
+/* Navbar toggler */
+.navbar-toggler[b-sara90ikyu] {
+    border-color: #fff;
+}
+
+.navbar-toggler-icon[b-sara90ikyu] {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%28255, 255, 255, 1%29' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+/* ============================
+   Buttons
+============================ */
+.btn-primary[b-sara90ikyu] {
+    background: linear-gradient(135deg, #1b6ec2, #3a8ee6);
+    border: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    color: #fff;
+}
+
+.btn-primary:hover[b-sara90ikyu] {
+    background: linear-gradient(135deg, #3a8ee6, #1b6ec2);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+}
+
+.btn-danger[b-sara90ikyu] {
+    background: #dc3545;
+    border: none;
+    color: #fff;
+    transition: all 0.3s ease;
+}
+
+.btn-danger:hover[b-sara90ikyu] {
+    background: #c82333;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* ============================
+   Sidebar
+============================ */
+.sidebar[b-sara90ikyu] {
+    background-color: #f8f9fa;
+    padding: 15px;
+    min-width: 200px;
+    max-width: 220px;
+    height: calc(100vh - 70px); /* Ajusta según altura navbar */
+    box-shadow: 2px 0 8px rgba(0,0,0,0.05);
+}
+
+.sidebar h5[b-sara90ikyu] {
+    margin-bottom: 15px;
+}
+
+.sidebar a[b-sara90ikyu] {
+    display: block;
+    margin-bottom: 10px;
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.sidebar a:hover[b-sara90ikyu] {
+    text-decoration: underline;
+}
+
+/* ============================
+   Content
+============================ */
+.content[b-sara90ikyu] {
+    flex-grow: 1;
+    padding: 20px;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+    margin: 1rem;
+}
+
+/* ============================
+   Footer
+============================ */
+footer.footer[b-sara90ikyu] {
+    padding: 1.5rem 0;
+    background: #1b1b1b;
+    color: #eee;
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+footer.footer a[b-sara90ikyu] {
+    color: #ffd700;
+    transition: color 0.3s;
+}
+
+footer.footer a:hover[b-sara90ikyu] {
+    color: #ffea00;
+}
+
+/* ============================
+   Tables
+============================ */
+.table[b-sara90ikyu] {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.table thead[b-sara90ikyu] {
+    background: #1b6ec2;
+    color: #fff;
+}
+
+.table tbody tr:hover[b-sara90ikyu] {
+    background: #f0f4ff;
+    transition: background 0.3s;
+}
+
+/* ============================
+   Forms
+============================ */
+input[b-sara90ikyu], textarea[b-sara90ikyu], select[b-sara90ikyu] {
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    padding: 0.5rem 0.75rem;
+    transition: all 0.3s ease;
+}
+
+input:focus[b-sara90ikyu], textarea:focus[b-sara90ikyu], select:focus[b-sara90ikyu] {
+    outline: none;
+    border-color: #3a8ee6;
+    box-shadow: 0 0 8px rgba(58, 142, 230, 0.3);
+}
+
+/* ============================
+   Headings
+============================ */
+h1[b-sara90ikyu], h2[b-sara90ikyu], h3[b-sara90ikyu] {
+    font-weight: 600;
+    color: #1b1b1b;
+}
+
+/* ============================
+   Flex layout for main + sidebar
+============================ */
+.layout-container[b-sara90ikyu] {
+    display: flex;
+    flex-grow: 1;
+}
+
+/* Responsive: collapse sidebar en móvil */
+@media (max-width: 768px) {
+    .layout-container[b-sara90ikyu] {
+        flex-direction: column;
+    }
+    .sidebar[b-sara90ikyu] {
+        width: 100%;
+        height: auto;
+        max-width: none;
+        box-shadow: none;
+    }
+    .content[b-sara90ikyu] {
+        margin: 0.5rem;
+    }
+}

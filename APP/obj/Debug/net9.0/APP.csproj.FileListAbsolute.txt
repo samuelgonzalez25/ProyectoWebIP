@@ -1,0 +1,366 @@
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/APP.csproj.AssemblyReference.cache
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/APP.GeneratedMSBuildEditorConfig.editorconfig
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/APP.AssemblyInfoInputs.cache
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/APP.AssemblyInfo.cs
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/APP.csproj.CoreCompileInputs.cache
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/APP.MvcApplicationPartsAssemblyInfo.cache
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/APP.RazorAssemblyInfo.cache
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/APP.RazorAssemblyInfo.cs
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/APP.sourcelink.json
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/appsettings.Development.json
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/appsettings.json
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/APP.staticwebassets.runtime.json
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/APP.staticwebassets.endpoints.json
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/APP.exe
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/APP.deps.json
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/APP.runtimeconfig.json
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/APP.dll
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/APP.pdb
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/BouncyCastle.Cryptography.dll
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/Google.Protobuf.dll
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/K4os.Compression.LZ4.dll
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/K4os.Compression.LZ4.Streams.dll
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/K4os.Hash.xxHash.dll
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/MySql.Data.dll
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/System.Security.Permissions.dll
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/System.Windows.Extensions.dll
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/ZstdSharp.dll
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/runtimes/win-x64/native/comerr64.dll
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/runtimes/win-x64/native/gssapi64.dll
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/runtimes/win-x64/native/k5sprt64.dll
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/runtimes/win-x64/native/krb5_64.dll
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/runtimes/win-x64/native/krbcc64.dll
+C:/xampp/htdocs/Mundo GPU/app/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/scopedcss/bundle/APP.styles.css
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/scopedcss/projectbundle/APP.bundle.scp.css
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/ud2kfru3yw-b9sayid5wm.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/dh0kgf4kas-61n19gt1b8.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/ygt19y659k-xtxxf3hu2r.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/wy38h3j7iz-bqjiyaj88i.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/g2fvtigehk-c2jlpeoesf.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/anh0nat6yq-erw9l3u2r3.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/iqheeya8xw-aexeepp0ev.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/xe9ndh6hmw-d7shbmvgxk.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/vnyye89w3x-ausgxo2sd3.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/i5bhno04ce-k8d9w2qqmf.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/b936enab3g-cosvhxvwiu.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/vzzyjrqbda-ub07r2b239.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/9fa0ajvznn-fvhpjtyr6v.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/t9w2wys7sl-b7pk76d08c.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/4qcefb1g71-fsbi9cje9m.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/94wdoz05pw-rzd6atqjts.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/xz1zru6r36-ee0r1s7dh0.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/2k707i6y0k-dxx9fxp4il.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/67q1idqb8r-jd9uben2k1.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/3ggsocatvr-khv3u5hwcm.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/7tc1a5arn7-r4e9w2rdcm.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/9qx8d7v4vc-lcd1t2u6c8.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/6do4ocm5x6-c2oey78nd0.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/595424ehpd-tdbxkamptv.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/knv9r4d73g-j5mq2jizvt.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/invfx8xebj-06098lyss8.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/7z8c6komnh-nvvlpmu67g.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/gtlmqaruea-s35ty4nyc5.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/d110u19vfj-pj5nd1wqec.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/n4w6w7qey0-46ein0sx1k.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/ksmhgqbzcr-v0zj4ognzu.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/6d754fvf5d-37tfw0ft22.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/iqpr3xq0rw-hrwsygsryq.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/7sewlreye5-pk9g2wxc8p.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/r8ir99hxrd-ft3s53vfgj.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/xniw4i340m-6cfz1n2cew.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/h6r9yudk2x-6pdc2jztkx.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/a990hrx5vc-493y06b0oq.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/nx1s0zgmah-iovd86k7lj.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/xu7i6v6zpf-vr1egmr9el.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/od0hchv5wk-kbrnm935zg.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/t89v5jcadi-jj8uyg4cgr.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/8gjz1bu8xr-y7v9cxd14o.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/wcj1o3crn2-notf2xhcfb.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/jt0da661y3-h1s4sie4z3.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/cjmiv57i6r-63fj8s7r0e.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/jsk9ptf4n4-0j3bgjxly4.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/qtz1tnc1pr-47otxtyo56.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/6a5rtrp39a-4v8eqarkd7.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/vxlrp1onjl-356vix0kms.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/xvxou9flk8-83jwlth58m.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/qa15wwt811-mrlpezrjn3.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/9iykom1b33-lzl9nlhx6b.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/q4gncl33sp-ag7o75518u.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/ovqednlb2v-x0q3zqp4vz.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/eeryl0om3a-0i3buxo5is.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/ncuqx6ryvj-o1o13a6vjx.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/59uuvehg21-ttgo8qnofa.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/pwa5dum13t-2z0ns9nrw6.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/y3xp8ih84h-muycvpuwrr.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/77p8i71iw3-87fc7y1x7t.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/97ox7ow9t2-mlv21k5csn.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/staticwebassets.build.json
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/staticwebassets.development.json
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/staticwebassets/msbuild.APP.Microsoft.AspNetCore.StaticWebAssets.props
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/staticwebassets/msbuild.APP.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/staticwebassets/msbuild.build.APP.props
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.APP.props
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.APP.props
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/staticwebassets.pack.json
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/APP.csproj.Up2Date
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/APP.dll
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/refint/APP.dll
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/APP.pdb
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/APP.genruntimeconfig.cache
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/ref/APP.dll
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/kve4y1hrg9-x4tq82wddu.gz
+C:/xampp/htdocs/Mundo GPU/app/obj/Debug/net9.0/compressed/7sq7hrb9cj-x4tq82wddu.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/appsettings.Development.json
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/appsettings.json
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/APP.staticwebassets.runtime.json
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/APP.staticwebassets.endpoints.json
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/APP
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/APP.deps.json
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/APP.runtimeconfig.json
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/APP.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/APP.pdb
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/BouncyCastle.Cryptography.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/Google.Protobuf.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/K4os.Compression.LZ4.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/K4os.Compression.LZ4.Streams.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/K4os.Hash.xxHash.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/MySql.Data.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/System.Security.Permissions.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/System.Windows.Extensions.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/ZstdSharp.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/runtimes/win-x64/native/comerr64.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/runtimes/win-x64/native/gssapi64.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/runtimes/win-x64/native/k5sprt64.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/runtimes/win-x64/native/krb5_64.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/runtimes/win-x64/native/krbcc64.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/APP.csproj.AssemblyReference.cache
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/APP.GeneratedMSBuildEditorConfig.editorconfig
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/APP.AssemblyInfoInputs.cache
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/APP.AssemblyInfo.cs
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/APP.csproj.CoreCompileInputs.cache
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/APP.MvcApplicationPartsAssemblyInfo.cache
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/APP.RazorAssemblyInfo.cache
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/APP.RazorAssemblyInfo.cs
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/APP.sourcelink.json
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/scopedcss/bundle/APP.styles.css
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/scopedcss/projectbundle/APP.bundle.scp.css
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/ud2kfru3yw-b9sayid5wm.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/dh0kgf4kas-61n19gt1b8.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/ygt19y659k-xtxxf3hu2r.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/wy38h3j7iz-bqjiyaj88i.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/g2fvtigehk-c2jlpeoesf.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/anh0nat6yq-erw9l3u2r3.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/iqheeya8xw-aexeepp0ev.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/xe9ndh6hmw-d7shbmvgxk.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/vnyye89w3x-ausgxo2sd3.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/i5bhno04ce-k8d9w2qqmf.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/b936enab3g-cosvhxvwiu.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/vzzyjrqbda-ub07r2b239.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/9fa0ajvznn-fvhpjtyr6v.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/t9w2wys7sl-b7pk76d08c.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/4qcefb1g71-fsbi9cje9m.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/94wdoz05pw-rzd6atqjts.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/xz1zru6r36-ee0r1s7dh0.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/2k707i6y0k-dxx9fxp4il.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/67q1idqb8r-jd9uben2k1.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/3ggsocatvr-khv3u5hwcm.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/7tc1a5arn7-r4e9w2rdcm.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/9qx8d7v4vc-lcd1t2u6c8.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/6do4ocm5x6-c2oey78nd0.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/595424ehpd-tdbxkamptv.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/knv9r4d73g-j5mq2jizvt.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/invfx8xebj-06098lyss8.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/7z8c6komnh-nvvlpmu67g.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/gtlmqaruea-s35ty4nyc5.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/d110u19vfj-pj5nd1wqec.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/n4w6w7qey0-46ein0sx1k.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/ksmhgqbzcr-v0zj4ognzu.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/6d754fvf5d-37tfw0ft22.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/iqpr3xq0rw-hrwsygsryq.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/7sewlreye5-pk9g2wxc8p.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/r8ir99hxrd-ft3s53vfgj.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/xniw4i340m-6cfz1n2cew.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/h6r9yudk2x-6pdc2jztkx.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/a990hrx5vc-493y06b0oq.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/nx1s0zgmah-iovd86k7lj.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/xu7i6v6zpf-vr1egmr9el.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/od0hchv5wk-kbrnm935zg.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/t89v5jcadi-jj8uyg4cgr.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/8gjz1bu8xr-y7v9cxd14o.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/wcj1o3crn2-notf2xhcfb.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/jt0da661y3-h1s4sie4z3.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/cjmiv57i6r-63fj8s7r0e.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/jsk9ptf4n4-0j3bgjxly4.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/qtz1tnc1pr-47otxtyo56.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/6a5rtrp39a-4v8eqarkd7.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/vxlrp1onjl-356vix0kms.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/xvxou9flk8-83jwlth58m.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/qa15wwt811-mrlpezrjn3.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/9iykom1b33-lzl9nlhx6b.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/q4gncl33sp-ag7o75518u.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/ovqednlb2v-x0q3zqp4vz.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/eeryl0om3a-0i3buxo5is.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/ncuqx6ryvj-o1o13a6vjx.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/59uuvehg21-ttgo8qnofa.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/pwa5dum13t-2z0ns9nrw6.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/y3xp8ih84h-muycvpuwrr.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/77p8i71iw3-87fc7y1x7t.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/97ox7ow9t2-mlv21k5csn.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/kve4y1hrg9-6ahclacdpy.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/compressed/7sq7hrb9cj-6ahclacdpy.gz
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/staticwebassets.build.json
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/staticwebassets.development.json
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/staticwebassets/msbuild.APP.Microsoft.AspNetCore.StaticWebAssets.props
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/staticwebassets/msbuild.APP.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/staticwebassets/msbuild.build.APP.props
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.APP.props
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.APP.props
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/staticwebassets.pack.json
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/APP.csproj.Up2Date
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/APP.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/refint/APP.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/APP.pdb
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/APP.genruntimeconfig.cache
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/obj/Debug/net9.0/ref/APP.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/ClosedXML.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/ClosedXML.Parser.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/DocumentFormat.OpenXml.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/DocumentFormat.OpenXml.Framework.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/ExcelNumberFormat.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/RBush.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/SixLabors.Fonts.dll
+/media/luis/460EE6630EE64B8D/xampp/htdocs/Mundo GPU/APP/bin/Debug/net9.0/System.IO.Packaging.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\appsettings.Development.json
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\appsettings.json
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\APP.staticwebassets.runtime.json
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\APP.staticwebassets.endpoints.json
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\APP.exe
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\APP.deps.json
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\APP.runtimeconfig.json
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\APP.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\APP.pdb
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\ClosedXML.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\ClosedXML.Parser.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\ExcelNumberFormat.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\Google.Protobuf.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\MySql.Data.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\RBush.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\SixLabors.Fonts.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\ZstdSharp.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\xampp\htdocs\Consoleros\app\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.AssemblyInfo.cs
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.MvcApplicationPartsAssemblyInfo.cache
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.RazorAssemblyInfo.cache
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.RazorAssemblyInfo.cs
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.sourcelink.json
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\scopedcss\bundle\APP.styles.css
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\scopedcss\projectbundle\APP.bundle.scp.css
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\ud2kfru3yw-b9sayid5wm.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\dh0kgf4kas-61n19gt1b8.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\ygt19y659k-xtxxf3hu2r.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\wy38h3j7iz-bqjiyaj88i.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\g2fvtigehk-c2jlpeoesf.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\anh0nat6yq-erw9l3u2r3.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\iqheeya8xw-aexeepp0ev.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\xe9ndh6hmw-d7shbmvgxk.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\vnyye89w3x-ausgxo2sd3.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\i5bhno04ce-k8d9w2qqmf.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\b936enab3g-cosvhxvwiu.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\vzzyjrqbda-ub07r2b239.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\9fa0ajvznn-fvhpjtyr6v.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\t9w2wys7sl-b7pk76d08c.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\4qcefb1g71-fsbi9cje9m.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\94wdoz05pw-rzd6atqjts.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\xz1zru6r36-ee0r1s7dh0.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\2k707i6y0k-dxx9fxp4il.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\67q1idqb8r-jd9uben2k1.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\3ggsocatvr-khv3u5hwcm.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\7tc1a5arn7-r4e9w2rdcm.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\9qx8d7v4vc-lcd1t2u6c8.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\6do4ocm5x6-c2oey78nd0.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\595424ehpd-tdbxkamptv.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\knv9r4d73g-j5mq2jizvt.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\invfx8xebj-06098lyss8.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\7z8c6komnh-nvvlpmu67g.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\gtlmqaruea-s35ty4nyc5.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\d110u19vfj-pj5nd1wqec.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\n4w6w7qey0-46ein0sx1k.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\ksmhgqbzcr-v0zj4ognzu.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\6d754fvf5d-37tfw0ft22.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\iqpr3xq0rw-hrwsygsryq.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\7sewlreye5-pk9g2wxc8p.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\r8ir99hxrd-ft3s53vfgj.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\xniw4i340m-6cfz1n2cew.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\h6r9yudk2x-6pdc2jztkx.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\a990hrx5vc-493y06b0oq.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\nx1s0zgmah-iovd86k7lj.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\xu7i6v6zpf-vr1egmr9el.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\od0hchv5wk-kbrnm935zg.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\t89v5jcadi-jj8uyg4cgr.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\8gjz1bu8xr-y7v9cxd14o.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\wcj1o3crn2-notf2xhcfb.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\jt0da661y3-h1s4sie4z3.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\cjmiv57i6r-63fj8s7r0e.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\jsk9ptf4n4-0j3bgjxly4.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\qtz1tnc1pr-47otxtyo56.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\6a5rtrp39a-4v8eqarkd7.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\vxlrp1onjl-356vix0kms.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\xvxou9flk8-83jwlth58m.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\qa15wwt811-mrlpezrjn3.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\9iykom1b33-lzl9nlhx6b.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\q4gncl33sp-ag7o75518u.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\ovqednlb2v-x0q3zqp4vz.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\eeryl0om3a-0i3buxo5is.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\ncuqx6ryvj-o1o13a6vjx.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\59uuvehg21-ttgo8qnofa.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\pwa5dum13t-2z0ns9nrw6.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\y3xp8ih84h-muycvpuwrr.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\77p8i71iw3-87fc7y1x7t.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\97ox7ow9t2-mlv21k5csn.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\kve4y1hrg9-x4tq82wddu.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\compressed\7sq7hrb9cj-x4tq82wddu.gz
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\staticwebassets.build.json
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\staticwebassets.development.json
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.csproj.Up2Date
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.dll
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\refint\APP.dll
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.pdb
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.genruntimeconfig.cache
+C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\ref\APP.dll

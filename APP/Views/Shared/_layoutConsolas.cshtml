@@ -1,0 +1,89 @@
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@{
+    Layout = null;
+
+    // Obtener usuario y rol desde la sesión
+    var nombreUsuario = HttpContextAccessor.HttpContext?.Session.GetString("Username");
+    var rol = HttpContextAccessor.HttpContext?.Session.GetString("Rol");
+    var estaLogueado = !string.IsNullOrEmpty(nombreUsuario) && !string.IsNullOrEmpty(rol);
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Consoleros</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <style>
+        body { 
+            min-height: 100vh; 
+            display: flex; 
+            flex-direction: column; 
+            margin: 0;
+        }
+        .content { 
+            flex: 1; 
+            padding: 20px; 
+        }
+        .footer { 
+            background-color: #6c757d; 
+            color: white; 
+            text-align: center; 
+            padding: 15px 0;
+            margin-top: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index">Consoleros</a>
+                <div class="collapse navbar-collapse justify-content-end">
+                    <ul class="navbar-nav">
+                        @if (estaLogueado)
+                        {
+                            <li class="nav-item me-3">
+                                <span class="nav-link text-dark">Hola, <strong>@nombreUsuario</strong>! 👋</span>
+                            </li>
+                            <li class="nav-item">
+                                <form asp-controller="Login" asp-action="Logout" method="post">
+                                    <button type="submit" class="btn btn-danger">🚪 Cerrar sesión</button>
+                                </form>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item me-2">
+                                <a class="btn btn-primary" asp-controller="Login" asp-action="Index">🔑 Iniciar sesión</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="btn btn-success" asp-controller="Registro" asp-action="Index">📝 Registrarse</a>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- CONTENIDO PRINCIPAL -->
+    <div class="content">
+        @RenderBody()
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            &copy; 2025 - Consoleros 🎯
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

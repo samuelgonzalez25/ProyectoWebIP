@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\APP",
+    "\\APP\\Controllers",
+    "\\APP\\Data",
+    "\\APP\\Models",
+    "\\APP\\Services",
+    "\\APP\\Views",
+    "\\APP\\Views\\Consolas"
+  ],
+  "SelectedNode": "\\APP\\Controllers\\RegistroController.cs",
+  "PreviewInSolutionExplorer": false
+}

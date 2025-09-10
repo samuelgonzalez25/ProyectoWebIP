@@ -1,0 +1,96 @@
+@model List<APP.Models.Consola>
+    @{
+    var rolUsuario = Context.Session.GetString("Rol");
+    }
+
+    <div class="container mt-4">
+
+        <!-- Botones superiores -->
+        <div class="mb-3 d-flex flex-wrap gap-2">
+            @if (!string.IsNullOrEmpty(rolUsuario) && rolUsuario == "ADMIN")
+        {
+            <a asp-controller="User" asp-action="Main" class="btn btn-success">Ir al Menú Principal</a>
+            <a asp-controller="Consola" asp-action="Create" class="btn btn-primary">Añadir Consola</a>
+        }
+
+            @if (!string.IsNullOrEmpty(rolUsuario) && (rolUsuario == "ADMIN" || rolUsuario == "ENCARGADO"))
+        {
+            <a href="@Url.Action("ExportConsolasToExcel", "ConsolaExport")" class="btn btn-success">Exportar lista completa a Excel</a>
+        }
+        </div>
+
+        <!-- Formulario de búsqueda -->
+        <form class="row g-3 mb-4" method="POST" action="/Consolas/Find">
+            <div class="col-auto">
+                <label class="visually-hidden" for="search">Buscar Consola</label>
+                <input type="text" class="form-control" id="search" name="searchTerm" placeholder="Buscar Consola..." required />
+            </div>
+            <div class="col-auto">
+                <button type="submit" class="btn btn-primary mb-3">Buscar</button>
+            </div>
+        </form>
+
+        <!-- Mensaje de error -->
+        @if (ViewBag.Error != null)
+    {
+        <div class="alert alert-warning text-center">@ViewBag.Error</div>
+    }
+
+        <!-- Lista de Consolas -->
+        <div class="row">
+            @foreach (var item in Model)
+        {
+            <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
+                <div class="card h-100 shadow-sm">
+                    <img src="@item.Imagen" class="card-img-top" alt="@item.Modelo" style="height:180px; object-fit:cover;" />
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title">@item.Modelo</h5>
+                        <p class="card-text mb-1">Marca: @item.Marca</p>
+                        <p class="card-text mb-2">Almacenamiento: @item.Almacenamiento</p>
+                        <p class="card-text mb-2">Generación: @item.Generacion</p>
+                        <p class="card-text mb-3">Incluye Juegos: @(item.IncluyeJuegos ? "Sí" : "No")</p>
+                        <p class="card-text fw-bold mb-3">Precio: @item.Precio.ToString("C")</p>
+
+                        <!-- Botones según rol -->
+                        <div class="mt-auto d-flex gap-2">
+                            <a href="@Url.Action("Details", "Consolas", new { id = item.IdConsola })" class="btn btn-primary flex-grow-1">Detalles</a>
+
+                            @if (rolUsuario == "ADMIN" || rolUsuario == "ENCARGADO")
+                            {
+                            <a href="@Url.Action("Edit", "Consolas", new { id = item.IdConsola })" class="btn btn-warning flex-grow-1">Editar</a>
+                            }
+
+                            @if (rolUsuario == "ADMIN")
+                            {
+                            <a href="@Url.Action("Delete", "Consolas", new { id = item.IdConsola })" class="btn btn-danger flex-grow-1">Borrar</a>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+        </div>
+    </div>
+
+    <style>
+        h5.card-title {
+            font-weight: bold;
+        }
+
+        .card-text {
+            font-size: 0.95rem;
+        }
+
+        .btn {
+            padding: 8px 12px;
+            font-size: 0.95rem;
+        }
+
+        .d-flex.gap-2 {
+            margin-top: 10px;
+        }
+
+        .btn-success {
+            white-space: nowrap;
+        }
+    </style>

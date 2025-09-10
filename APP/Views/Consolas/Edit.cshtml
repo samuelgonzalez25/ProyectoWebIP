@@ -1,0 +1,84 @@
+@model APP.Models.Consola
+
+@{
+    var rolUsuario = Context.Session.GetString("Rol");
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4">Editar Consola: @Model.Modelo</h2>
+
+    <form asp-action="Edit" method="post">
+        <input type="hidden" asp-for="IdConsola" />
+
+        <div class="mb-3">
+            <label asp-for="Marca" class="form-label">Marca</label>
+            <input asp-for="Marca" class="form-control" />
+            <span asp-validation-for="Marca" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Modelo" class="form-label">Modelo</label>
+            <input asp-for="Modelo" class="form-control" />
+            <span asp-validation-for="Modelo" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Almacenamiento" class="form-label">Almacenamiento</label>
+            <input asp-for="Almacenamiento" class="form-control" />
+            <span asp-validation-for="Almacenamiento" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Generacion" class="form-label">Generación</label>
+            <input asp-for="Generacion" class="form-control" />
+            <span asp-validation-for="Generacion" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3 form-check">
+            <input asp-for="IncluyeJuegos" class="form-check-input" />
+            <label asp-for="IncluyeJuegos" class="form-check-label">Incluye Juegos</label>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Precio" class="form-label">Precio</label>
+            <input asp-for="Precio" type="number" step="0.01" class="form-control" />
+            <span asp-validation-for="Precio" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="ProveedoresIdProveedor" class="form-label">Proveedor</label>
+            <select asp-for="ProveedoresIdProveedor" class="form-select" asp-items="@(new SelectList(ViewBag.Proveedores, "IdProveedor", "Nombre"))">
+                <option value="">-- Seleccione un proveedor --</option>
+            </select>
+            <span asp-validation-for="ProveedoresIdProveedor" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Imagen" class="form-label">URL Imagen</label>
+            <input asp-for="Imagen" class="form-control" />
+            <span asp-validation-for="Imagen" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-warning">Guardar cambios</button>
+        <a asp-action="Details" asp-route-id="@Model.IdConsola" class="btn btn-secondary ms-2">Cancelar</a>
+    </form>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+<style>
+    h2 {
+        font-weight: bold;
+    }
+
+    .btn-warning, .btn-secondary {
+        padding: 10px 15px;
+        font-size: 1rem;
+    }
+
+    .mb-3 {
+        margin-bottom: 1rem;
+    }
+</style>
