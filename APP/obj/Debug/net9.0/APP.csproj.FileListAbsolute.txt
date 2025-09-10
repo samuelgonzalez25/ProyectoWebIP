@@ -283,7 +283,6 @@ C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.csproj.CoreCompileInputs.cac
 C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.MvcApplicationPartsAssemblyInfo.cache
 C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.RazorAssemblyInfo.cache
 C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.RazorAssemblyInfo.cs
-C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\APP.sourcelink.json
 C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\xampp\htdocs\Consoleros\app\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
